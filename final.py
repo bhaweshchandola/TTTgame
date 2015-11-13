@@ -1,9 +1,9 @@
-from random import randrange
-
-print("Project:Uber-Cool")
-print("Welcome to the game of Tic-Tac-Toe:")
+print("-----------Project:Uber-Cool--------------")
+print("--------Game by BHAWESH CHANDOLA----------")
+print("FOR ANY QUERIES-: bhawesh.chandola@gmail.com")
+print("----Welcome to the game of Tic-Tac-Toe:---")
 print("the game board will look something like this::")
-#x=[[print(x,end='') print('') for x in range(0,3)] for y in range(0,3) print('')]
+
 flag=1
 for x in range(0,3):
     for y in range(0,3):
